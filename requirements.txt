@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+tqdm
+torch==2.7.1+cu126 -f https://download.pytorch.org/whl/cu126
