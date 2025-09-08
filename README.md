@@ -1,4 +1,4 @@
-# Hypar_NeuralNetwork_SPH
+# Hypar_NeuralNetwork_SPH (IN-PROGRESS)
 A repo for the study on Neural network model for predicting wave-induced pressure distribution on hyperbolic paraboloid free-surface breakwaters using SPH simulation data.
 
 ## Repository Structure
