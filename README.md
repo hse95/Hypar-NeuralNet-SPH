@@ -36,7 +36,7 @@ python -m src.train --model=cnn --epochs=100 --device=cuda:0
 python -m src.evaluate --device=cuda:0
 ```
 
-## Abstract (concise)
+## Abstract
 
 **Neural Network-Based Prediction of Wave Pressure Distribution on Hyperbolic Paraboloid Surfaces**  
 Sam Smith, Gaoyuan Wu, Maria Garlock  
